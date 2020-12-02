@@ -1,0 +1,30 @@
+{
+  "name": "webscraper",
+  "version": "1.0.0",
+  "description": "Scrapes the web",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd WebScraper && yarn node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faith1sGay/WebScraper.git"
+  },
+  "keywords": [
+    "Web",
+    "Webscraper",
+    "scraper",
+    "crawler"
+  ],
+  "author": "Faith Viola",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Faith1sGay/WebScraper/issues"
+  },
+  "homepage": "https://github.com/Faith1sGay/WebScraper#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "crawler": "^1.2.2",
+    "mongodb": "^3.6.2"
+  }
+}
