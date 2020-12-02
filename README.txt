@@ -18,9 +18,12 @@ Download the latest version (at the time of writing it is 15.3.0)
 npm i -g yarn
 in command prompt
 
-4. Go to the folder where the web scraper is, whether you git cloned it or downloaded it as a zip, and run
+5. Once node and yarn are installed, type
+yarn set version berry
+
+6. Go to the folder where the web scraper is, whether you git cloned it or downloaded it as a zip, and run
 yarn install
 
-5. Once that is all done, type npm start and you should see the basic outlay of how the program works (even though it doesn't right now)
+7. Once that is all done, type npm start and you should see the basic outlay of how the program works (even though it doesn't right now)
 
-6. Happy Scraping! (just be careful you don't get ipbanned, as most websites do not enjoy you scraping without permission.
+8. Happy Scraping! (just be careful you don't get ipbanned, as most websites do not enjoy you scraping without permission.
